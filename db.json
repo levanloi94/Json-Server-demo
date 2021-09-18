@@ -1,0 +1,251 @@
+{
+  "categories": [
+    {
+      "id": "e88df947-9e9c-41a9-a60a-49f25d1a6277",
+      "name": "Books",
+      "createdAt": 1631798355957,
+      "updatedAt": 1631798355957
+    },
+    {
+      "id": "ab53dccd-0282-48c2-8d7d-fb28e6acb92c",
+      "name": "Computers",
+      "createdAt": 1631798355957,
+      "updatedAt": 1631798355957
+    },
+    {
+      "id": "1702596c-5246-4ba4-8c1e-1534fa23dd5f",
+      "name": "Toys",
+      "createdAt": 1631798355957,
+      "updatedAt": 1631798355958
+    },
+    {
+      "id": "6d84da01-0272-48c6-9d34-9d9009c4e9fe",
+      "name": "Grocery",
+      "createdAt": 1631798355958,
+      "updatedAt": 1631798355958
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "e88df947-9e9c-41a9-a60a-49f25d1a6277",
+      "id": "018f3694-4130-48a4-b80d-6049870929a6",
+      "name": "Licensed Fresh Bacon",
+      "color": "red",
+      "price": 408,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdDate": 1631798355958,
+      "updatedDate": 1631798355958,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e88df947-9e9c-41a9-a60a-49f25d1a6277",
+      "id": "d4c9bb67-d535-4a00-997f-96cf78b4ad5c",
+      "name": "Ergonomic Frozen Cheese",
+      "color": "yellow",
+      "price": 314,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdDate": 1631798355958,
+      "updatedDate": 1631798355958,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e88df947-9e9c-41a9-a60a-49f25d1a6277",
+      "id": "34387dc3-94f7-4b73-bef8-de2887892747",
+      "name": "Rustic Cotton Soap",
+      "color": "gold",
+      "price": 636,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdDate": 1631798355958,
+      "updatedDate": 1631798355958,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e88df947-9e9c-41a9-a60a-49f25d1a6277",
+      "id": "ffea38d6-7ddd-4707-a862-1767375e41c8",
+      "name": "Rustic Granite Bacon",
+      "color": "fuchsia",
+      "price": 408,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdDate": 1631798355958,
+      "updatedDate": 1631798355958,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e88df947-9e9c-41a9-a60a-49f25d1a6277",
+      "id": "bca3addc-053c-420c-a2a7-34a9650e524f",
+      "name": "Tasty Rubber Hat",
+      "color": "violet",
+      "price": 440,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdDate": 1631798355958,
+      "updatedDate": 1631798355958,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ab53dccd-0282-48c2-8d7d-fb28e6acb92c",
+      "id": "9a0b0177-fbe9-48e2-9036-70fd2993d719",
+      "name": "Incredible Concrete Cheese",
+      "color": "sky blue",
+      "price": 580,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdDate": 1631798355959,
+      "updatedDate": 1631798355959,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ab53dccd-0282-48c2-8d7d-fb28e6acb92c",
+      "id": "00ecbc75-3c2c-40ea-9fe4-647b84f28902",
+      "name": "Small Granite Mouse",
+      "color": "gold",
+      "price": 408,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdDate": 1631798355959,
+      "updatedDate": 1631798355959,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ab53dccd-0282-48c2-8d7d-fb28e6acb92c",
+      "id": "c610813e-9431-4723-8b28-a5dbfa59cbc6",
+      "name": "Handmade Rubber Shirt",
+      "color": "purple",
+      "price": 264,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdDate": 1631798355959,
+      "updatedDate": 1631798355959,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ab53dccd-0282-48c2-8d7d-fb28e6acb92c",
+      "id": "aee65c91-6c76-4ef3-9635-57f4c845b731",
+      "name": "Awesome Soft Sausages",
+      "color": "violet",
+      "price": 753,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdDate": 1631798355959,
+      "updatedDate": 1631798355959,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ab53dccd-0282-48c2-8d7d-fb28e6acb92c",
+      "id": "d63a5293-e5bd-43b8-9cc2-3fe6c3451141",
+      "name": "Gorgeous Fresh Keyboard",
+      "color": "indigo",
+      "price": 907,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdDate": 1631798355959,
+      "updatedDate": 1631798355959,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1702596c-5246-4ba4-8c1e-1534fa23dd5f",
+      "id": "f9c49343-1909-4137-b640-9f5d27ac44ad",
+      "name": "Fantastic Frozen Bike",
+      "color": "white",
+      "price": 98,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdDate": 1631798355959,
+      "updatedDate": 1631798355959,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1702596c-5246-4ba4-8c1e-1534fa23dd5f",
+      "id": "24d66f69-ebd1-46ad-9d79-9b0a8d62300d",
+      "name": "Tasty Soft Soap",
+      "color": "yellow",
+      "price": 559,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdDate": 1631798355959,
+      "updatedDate": 1631798355959,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1702596c-5246-4ba4-8c1e-1534fa23dd5f",
+      "id": "e391cc31-52e6-4a0a-b6ce-174cb34657ea",
+      "name": "Rustic Plastic Bacon",
+      "color": "red",
+      "price": 413,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdDate": 1631798355959,
+      "updatedDate": 1631798355959,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1702596c-5246-4ba4-8c1e-1534fa23dd5f",
+      "id": "90f8c217-3511-4c1a-a25a-606e9c6f8877",
+      "name": "Licensed Granite Shoes",
+      "color": "lime",
+      "price": 30,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdDate": 1631798355959,
+      "updatedDate": 1631798355959,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1702596c-5246-4ba4-8c1e-1534fa23dd5f",
+      "id": "6d6b1489-858e-48f0-a5ba-5a9991ad8989",
+      "name": "Handcrafted Metal Shirt",
+      "color": "olive",
+      "price": 713,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdDate": 1631798355959,
+      "updatedDate": 1631798355959,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6d84da01-0272-48c6-9d34-9d9009c4e9fe",
+      "id": "c886ad7e-8ff6-4697-89f0-9261c4dac5d0",
+      "name": "Handcrafted Concrete Chips",
+      "color": "ivory",
+      "price": 289,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdDate": 1631798355959,
+      "updatedDate": 1631798355959,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6d84da01-0272-48c6-9d34-9d9009c4e9fe",
+      "id": "22f9b0b2-869c-4074-859a-e5fb572aa7f7",
+      "name": "Tasty Metal Computer",
+      "color": "black",
+      "price": 681,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdDate": 1631798355959,
+      "updatedDate": 1631798355959,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6d84da01-0272-48c6-9d34-9d9009c4e9fe",
+      "id": "906d3b16-e14e-4dec-9609-f8994b0983f5",
+      "name": "Licensed Fresh Shirt",
+      "color": "indigo",
+      "price": 198,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdDate": 1631798355959,
+      "updatedDate": 1631798355959,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6d84da01-0272-48c6-9d34-9d9009c4e9fe",
+      "id": "fcdb224a-5900-4a6c-8fd6-3a1ca54907a4",
+      "name": "Refined Metal Pizza",
+      "color": "azure",
+      "price": 170,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdDate": 1631798355959,
+      "updatedDate": 1631798355959,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6d84da01-0272-48c6-9d34-9d9009c4e9fe",
+      "id": "70ca0c8b-f3c2-44c8-a945-426eb92d215d",
+      "name": "Handmade Concrete Towels",
+      "color": "magenta",
+      "price": 146,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdDate": 1631798355959,
+      "updatedDate": 1631798355959,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    }
+  ],
+  "profile": { "name": "Heo" }
+}
